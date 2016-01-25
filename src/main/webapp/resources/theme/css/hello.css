@@ -1,0 +1,30 @@
+.htable{
+    width: 300px;
+    margin: auto;
+}
+
+td{
+    text-align: left;
+}
+
+p{
+    color: red;
+}
+.hblock{
+    width: 40%;
+    padding: 10px;
+    margin: auto;
+    background: #656ca9;
+    position: fixed;
+    top: 30%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    border: double;
+
+}
+.hcenter{
+    width: auto;
+    text-align: center;
+    background: #656ca9;
+}

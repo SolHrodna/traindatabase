@@ -1,0 +1,29 @@
+td{
+    text-align: left;
+}
+
+
+
+.mtable{
+    width: 600px;
+    margin: auto;
+}
+
+
+.mblock{
+    width: 60%;
+    padding: 10px;
+    margin: auto;
+    background: #8f92a9;
+    left: 0;
+    right: 0;
+    border: double;
+
+
+}
+
+.mcenter{
+    width: auto;
+    text-align: center;
+    background: #8f92a9;
+}
